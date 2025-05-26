@@ -31,4 +31,4 @@
 
 ## 其他
 - `build/` 和 `web/node_modules/` 已加入 .gitignore，不会提交到仓库。
-- 如需自定义网络或配置，请修改 `truffle-config.js`。 
+- 如需自定义网络或配置，请修改 `truffle-config.js`。

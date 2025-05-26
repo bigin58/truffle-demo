@@ -12,15 +12,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@tailwindcss/postcss": "^4.1.7",
-    "autoprefixer": "^10.4.21",
     "ethers": "^6.14.1",
-    "postcss": "^8.5.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.6.0",
     "react-scripts": "^5.0.1",
-    "tailwindcss": "^4.1.7",
+    "tailwindcss": "3",
     "typescript": "^5.8.3"
   },
   "devDependencies": {
@@ -29,9 +26,11 @@
     "@shadcn/ui": "^0.0.4",
     "@types/react": "^19.1.5",
     "@types/react-dom": "^19.1.5",
+    "autoprefixer": "^10.4.21",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.511.0",
+    "postcss": "^8.5.3",
     "tailwind-merge": "^3.3.0"
   },
   "browserslist": {
